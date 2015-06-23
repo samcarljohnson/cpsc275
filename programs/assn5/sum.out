@@ -1,0 +1,30 @@
+*** Welcome to VSM! ***
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).***
+*** You then type the word forthat location. ***
+*** Type the sentinel -9999to stop entering ***
+*** your program. ***
+*** Program loading completed ***
+*** Program execution begins ***
+10
+*** VSM execution terminated ***
+REGISTERS:
+accumulator              +0010
+instructionCounter       10
+instructionRegister      +4300
+operationCode            00
+operand                  00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+00 +1011 +1012 +1013 +1014 +2011 +3012 +3013 +3014 +2115 +1115 
+10 +4300 +0001 +0002 +0003 +0004 +0010 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 

